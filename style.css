@@ -1,0 +1,11 @@
+
+.img1{
+border: solid;
+   
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
